@@ -16,3 +16,8 @@ header {
 }
 footer {
 }
+.tex {
+  font-family: var(--font-family);
+  font-weight: 500;
+  color: blue;
+}
